@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/桌面/AndroidStudioProject/CoolWeather/CoolWeather/CoolWeather.iml" filepath="$USER_HOME$/桌面/AndroidStudioProject/CoolWeather/CoolWeather/CoolWeather.iml" />
-      <module fileurl="file://$USER_HOME$/桌面/AndroidStudioProject/CoolWeather/CoolWeather/app/app.iml" filepath="$USER_HOME$/桌面/AndroidStudioProject/CoolWeather/CoolWeather/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/桌面/CoolWeather/CoolWeather.iml" filepath="$USER_HOME$/桌面/CoolWeather/CoolWeather.iml" />
+      <module fileurl="file://$USER_HOME$/桌面/CoolWeather/app/app.iml" filepath="$USER_HOME$/桌面/CoolWeather/app/app.iml" />
     </modules>
   </component>
 </project>
